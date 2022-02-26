@@ -1,0 +1,1 @@
+-- rbxassetid://7808006123 for pentagon (5+)
